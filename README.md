@@ -1,4 +1,6 @@
-### Hi there 👋
+### I am currently a student of the Computer Engineering Degree at USAL while working in the research group BISITE as an intern.
+
+I participate in projects related to Big Data and Artificial Intelligence and my work is mainly focused on Backend development tasks.
 
 <!--
 **DavidSanSan110/DavidSanSan110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

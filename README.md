@@ -32,8 +32,6 @@ I participate in projects related to Big Data and Artificial Intelligence and my
 </p>
 
 ## Statistics 🧐
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DavidSanSan110&show_icons=true&theme=tokyonight&count_private=true" />
-
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DavidSanSan110&theme=tokyonight" />
 
 ## Contact Me ✉

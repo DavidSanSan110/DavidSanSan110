@@ -1,6 +1,6 @@
 ## About Me 😊
 
-I am currently a student of the Computer Engineering Degree at USAL while working in the research group BISITE as an intern.
+I am currently a student of the Computer Engineering Degree at USAL while working in the research group BISITE as FullStack developer.
 
 I participate in projects related to Big Data and Artificial Intelligence and my work is mainly focused on Backend development tasks.
 

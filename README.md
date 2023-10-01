@@ -9,19 +9,19 @@ I participate in projects related to Big Data and Artificial Intelligence and my
 <p align="center">
   <h6>FrontEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vuejs,react,nodejs,typescript,angular,redux" />
+    <img src="https://skillicons.dev/icons?i=vuejs,react,nodejs,typescript,angular,redux,tailwind" />
   </a>
 </p>
 <p align="center">
   <h6>BackEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,graphql,python,flask,java,php" />
+    <img src="https://skillicons.dev/icons?i=express,graphql,python,flask,java,php,django" />
   </a>
 </p>
 <p align="center">
   <h6>DataBase</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" />
   </a>
 </p>
 <p align="center">

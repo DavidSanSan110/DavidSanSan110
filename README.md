@@ -27,7 +27,7 @@ I participate in projects related to Big Data and Artificial Intelligence and my
 <p align="center">
   <h6>Tools</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gitlab,githubactions,heroku,docker" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,githubactions,heroku,docker,aws" />
   </a>
 </p>
 

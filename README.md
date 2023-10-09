@@ -31,7 +31,7 @@ I'm also deeply fascinated by blockchain technology and artificial intelligence 
   </a>
 </p>
 
-## Statistics 🧐
+## Statistics 📈 
 <a href="https://github-readme-streak-stats.herokuapp.com?user=DavidSanSan110&theme=tokyonight&border_radius=5">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DavidSanSan110&theme=tokyonight&border_radius=5" />
 </a>

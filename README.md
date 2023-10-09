@@ -1,8 +1,8 @@
 ## About Me 😊
 
-I am currently a student of the Computer Engineering Degree at USAL while working in the research group BISITE as FullStack developer.
-
-I participate in projects related to Big Data and Artificial Intelligence and my work is mainly focused on Backend development tasks.
+Hey there! I'm a passionate 21-year-old programmer currently working as a Fullstack Developer at Bisite Research Group. 
+My expertise lies in backend development, with a keen focus on Node.js, Express.js, GraphQL, and Flask. 
+I'm also deeply fascinated by blockchain technology and artificial intelligence (AI).
 
 ## Stack 📚
 

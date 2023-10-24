@@ -15,7 +15,7 @@ I'm also deeply fascinated by blockchain technology and artificial intelligence 
 <p align="center">
   <h6>BackEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,graphql,python,flask,java,php,django" />
+    <img src="https://skillicons.dev/icons?i=express,graphql,python,flask,java,php,django,fastapi" />
   </a>
 </p>
 <p align="center">

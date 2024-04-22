@@ -9,7 +9,7 @@ I'm also deeply fascinated by blockchain technology and artificial intelligence 
 <p align="center">
   <h6>FrontEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vuejs,react,nodejs,typescript,angular,redux,tailwind" />
+    <img src="https://skillicons.dev/icons?i=vuejs,react,nodejs,typescript,angular,redux,tailwind,vite" />
   </a>
 </p>
 <p align="center">
@@ -27,7 +27,7 @@ I'm also deeply fascinated by blockchain technology and artificial intelligence 
 <p align="center">
   <h6>Tools</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gitlab,githubactions,heroku,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,githubactions,heroku,docker,aws,nginx" />
   </a>
 </p>
 

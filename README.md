@@ -1,6 +1,6 @@
 ## About Me 😊
 
-Hey there! I'm a passionate 21-year-old programmer currently working as a Fullstack Developer at Bisite Research Group. 
+Hey there! I'm a passionate 22-year-old programmer currently working as a Fullstack Developer at Bisite Research Group. 
 My expertise lies in backend development, with a keen focus on Node.js, Express.js, GraphQL, and Flask. 
 I'm also deeply fascinated by blockchain technology and artificial intelligence (AI).
 

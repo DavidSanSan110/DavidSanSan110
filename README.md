@@ -1,33 +1,54 @@
 ## About Me 😊
 
-Hey there! I'm a passionate 22-year-old programmer currently working as a Fullstack Developer at Bisite Research Group. 
-My expertise lies in backend development, with a keen focus on Node.js, Express.js, GraphQL, and Flask. 
-I'm also deeply fascinated by blockchain technology and artificial intelligence (AI).
+Hey there! I'm a passionate 23-year-old backend developer currently working at **Telefónica**. My focus is on **system design and architecture**, with a strong interest in building scalable, robust **microservices** and **distributed systems**. I enjoy tackling complex challenges that require innovative architectural solutions. In addition, I'm deeply fascinated by artificial intelligence, particularly in areas such as **intelligent agents** and **large language models** (LLMs). I'm always exploring new technologies and ideas to push the boundaries of what's possible in the **backend** world.
 
 ## Stack 📚
 
 <p align="center">
-  <h6>FrontEnd</h6>
+  <h4>FrontEnd</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vuejs,react,nodejs,typescript,angular,redux,tailwind,vite" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,vuejs,react,redux,pinia,vite,tailwind" />
   </a>
 </p>
 <p align="center">
-  <h6>BackEnd</h6>
+  <h4>BackEnd</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,graphql,python,flask,java,php,django,fastapi" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,typescript,deno,express,graphql,apollo,django,flask,fastapi" />
   </a>
 </p>
 <p align="center">
-  <h6>DataBase</h6>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" />
-  </a>
+  <h4>SQL Databases</h4>
+  <div style="display: flex; justify-content: center; align-items: center; height: 100px;">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql" style="margin-right: 10px;" />
+    </a>
+    <h4>NoSQL Databases</h4>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mongodb,cassandra,redis" style="margin-right: 10px;" />
+    </a>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-couchbase-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-16-pack-icons-285194.png?f=webp&w=40" />
+  </div>
 </p>
+
 <p align="center">
-  <h6>Tools</h6>
+  <h4>Queues & Communication</h4>
+  <div style="display: flex; justify-content: center; align-items: center; height: 100px;">
+    <a href="https://socket.io">
+      <img src="https://static-00.iconduck.com/assets.00/socket-io-icon-2048x2046-mj0gnm4b.png" style="margin-right: 10px;" width="40" />
+    </a>
+    <a href="https://kafka.apache.org/">
+      <img src="https://skillicons.dev/icons?i=kafka" style="margin-right: 10px;" width="40" />
+    </a>
+    <a href="https://www.rabbitmq.com/">
+      <img src="https://skillicons.dev/icons?i=rabbitmq" style="margin-right: 10px;" width="40" />
+    </a>
+  </div>
+</p>
+
+<p align="center">
+  <h4>CD/CI</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gitlab,githubactions,heroku,docker,aws,nginx" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,githubactions,docker,azure,aws,jenkins,openshift,redhat" />
   </a>
 </p>
 

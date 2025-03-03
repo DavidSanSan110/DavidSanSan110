@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=DavidSanSan110&label=Profile%20views&color=brightgreen&style=flat" alt="DavidSanSan110" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=DavidSanSan110&label=Profile%20views&color=brightgreen&style=flat&base=5000" alt="DavidSanSan110" /> </p>
 
 ## About Me 😊
 

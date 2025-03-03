@@ -34,13 +34,13 @@ Hey there! I'm a passionate 23-year-old backend developer currently working at *
   <h4>Queues & Communication</h4>
   <div style="display: flex; justify-content: center; align-items: center; height: 100px;">
     <a href="https://socket.io">
-      <img src="https://static-00.iconduck.com/assets.00/socket-io-icon-2048x2046-mj0gnm4b.png" style="margin-right: 10px;" width="40" />
+      <img src="https://static-00.iconduck.com/assets.00/socket-io-icon-2048x2046-mj0gnm4b.png" style="margin-right: 10px;" width="50" />
     </a>
     <a href="https://kafka.apache.org/">
-      <img src="https://skillicons.dev/icons?i=kafka" style="margin-right: 10px;" width="40" />
+      <img src="https://skillicons.dev/icons?i=kafka" style="margin-right: 10px;" width="50" />
     </a>
     <a href="https://www.rabbitmq.com/">
-      <img src="https://skillicons.dev/icons?i=rabbitmq" style="margin-right: 10px;" width="40" />
+      <img src="https://skillicons.dev/icons?i=rabbitmq" style="margin-right: 10px;" width="50" />
     </a>
   </div>
 </p>
@@ -51,6 +51,33 @@ Hey there! I'm a passionate 23-year-old backend developer currently working at *
     <img src="https://skillicons.dev/icons?i=git,gitlab,githubactions,docker,azure,aws,jenkins,openshift,redhat" />
   </a>
 </p>
+
+## Personal Projects 🚀
+
+### TuneYourLlama 🦙🦙
+
+**TuneYourLlama** es una plataforma diseñada para facilitar el fine-tuning de modelos de lenguaje a gran escala (LLMs) con datos privados. Permite entrenar, ajustar y desplegar modelos personalizados de manera segura, escalable y eficiente.
+
+#### 🏗 Arquitectura del Sistema
+
+La plataforma sigue una arquitectura basada en microservicios, utilizando Docker y Apache Kafka para la comunicación entre componentes. 
+
+- **Frontend:** Aplicación en React y Node.js para la gestión y visualización.
+- **Backend:** API basada en Express y GraphQL para manejar peticiones y coordinar procesos.
+- **Entrenamiento (Fine-tuning):** Procesos en Python que incluyen embebido, recuperación y entrenamiento de modelos, almacenados en `/models`.
+- **Generación de respuestas (RAG):** Recupera información relevante y genera respuestas mediante embeddings y bases de datos vectoriales.
+- **Bases de datos:** PostgreSQL para la gestión de datos estructurados y almacenamiento de embeddings.
+
+#### 📌 Diseño del Sistema
+
+1. **Fine-tuning de modelos:** Permite cargar datos (PDF, CSV), configurar parámetros y entrenar modelos personalizados.
+2. **Asistentes con RAG:** Segmenta documentos, genera embeddings y almacena información para mejorar la precisión de respuestas.
+3. **Interacción con modelos:** Integra fine-tuning y RAG para conversaciones más precisas y personalizadas.
+4. **Escalabilidad y seguridad:** Arquitectura distribuida con autenticación y cifrado para proteger datos.
+
+#### 📷 Arquitectura
+
+![Arquitectura del Sistema](./image.png)
 
 ## Statistics 📈 
 

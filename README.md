@@ -54,31 +54,21 @@ Hey there! I'm a passionate 23-year-old backend developer currently working at *
 
 ## Personal Projects 🚀
 
-### TuneYourLlama 🦙🦙
+### TuneYourLlama 🦙🦙  
 
-**TuneYourLlama** es una plataforma diseñada para facilitar el fine-tuning de modelos de lenguaje a gran escala (LLMs) con datos privados. Permite entrenar, ajustar y desplegar modelos personalizados de manera segura, escalable y eficiente.
+TuneYourLlama es una plataforma para el fine-tuning de LLMs con datos privados, combinando **ajuste de modelos** y **RAG (Retrieval-Augmented Generation)** para respuestas más precisas.  
 
-#### 🏗 Arquitectura del Sistema
-
-La plataforma sigue una arquitectura basada en microservicios, utilizando Docker y Apache Kafka para la comunicación entre componentes. 
-
-- **Frontend:** Aplicación en React y Node.js para la gestión y visualización.
-- **Backend:** API basada en Express y GraphQL para manejar peticiones y coordinar procesos.
-- **Entrenamiento (Fine-tuning):** Procesos en Python que incluyen embebido, recuperación y entrenamiento de modelos, almacenados en `/models`.
-- **Generación de respuestas (RAG):** Recupera información relevante y genera respuestas mediante embeddings y bases de datos vectoriales.
-- **Bases de datos:** PostgreSQL para la gestión de datos estructurados y almacenamiento de embeddings.
-
-#### 📌 Diseño del Sistema
-
-1. **Fine-tuning de modelos:** Permite cargar datos (PDF, CSV), configurar parámetros y entrenar modelos personalizados.
-2. **Asistentes con RAG:** Segmenta documentos, genera embeddings y almacena información para mejorar la precisión de respuestas.
-3. **Interacción con modelos:** Integra fine-tuning y RAG para conversaciones más precisas y personalizadas.
-4. **Escalabilidad y seguridad:** Arquitectura distribuida con autenticación y cifrado para proteger datos.
+#### 🚀 Características  
+- **Fine-tuning** de modelos de Hugging Face con datos propios (PDF, CSV).
+- **RAG** para mejorar respuestas mediante embeddings y bases de datos vectoriales.  
+- **Procesamiento en tiempo real** con Kafka y colas de eventos.  
+- **Arquitectura distribuida** con microservicios, PostgreSQL y seguridad integrada.  
+- **Interfaz interactiva** en React para monitorear y gestionar el entrenamiento.  
 
 #### 📷 Arquitectura
 
-![Arquitectura del Sistema](./image.png)
-
+![Arquitectura del Sistema](./TuneYourLlama.png)
+<br />
 ## Statistics 📈 
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DavidSanSan110&theme=tokyonight&border_radius=5" />

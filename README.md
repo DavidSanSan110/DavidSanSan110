@@ -13,7 +13,7 @@ Hey there! I'm a passionate 23-year-old backend developer currently working at *
 <p align="center">
   <h4>BackEnd</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,typescript,deno,express,graphql,apollo,django,flask,fastapi" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,typescript,deno,express,graphql,apollo,django,flask,fastapi,supabase" />
   </a>
 </p>
 <p align="center">

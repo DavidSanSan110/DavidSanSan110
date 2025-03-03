@@ -71,17 +71,35 @@ TuneYourLlama es una plataforma para el fine-tuning de LLMs con datos privados, 
 
 ![Arquitectura del Sistema](./TuneYourLlama.png)
 <br />
-## Statistics 📈 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DavidSanSan110&theme=tokyonight&border_radius=5" />
+## 📊 GitHub Statistics 
+
 <br />
-<img align="center" src="https://github-readme-stats-seven-phi-58.vercel.app/api?username=DavidSanSan110&show_icons=true&theme=tokyonight" />
-<br />
-<img align="center" src="https://github-readme-stats-seven-phi-58.vercel.app/api/top-langs?username=DavidSanSan110&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_radius=5" />
-<br />
-<img align="center" src="https://github-readme-stats-seven-phi-58.vercel.app/api/wakatime?username=DavidSanSan110&layout=compact&langs_count=8&theme=tokyonight" />
-<br />
-<img align="center" src="https://wakatime.com/badge/user/018b5bee-c095-40e1-a69f-bb1d8754519a.svg" />
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats-seven-sooty.vercel.app?user=DavidSanSan110&theme=rose-pine&border_radius=10&exclude_days=Sun%2CSat&card_width=500&card_height=200" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-seven-phi-58.vercel.app/api?username=DavidSanSan110&show_icons=true&theme=rose_pine&border_radius=10&card_width=500&card_height=200" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-seven-phi-58.vercel.app/api/top-langs?username=DavidSanSan110&show_icons=true&locale=en&layout=compact&theme=rose_pine&border_radius=10&card_width=500&card_height=200" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-seven-phi-58.vercel.app/api/wakatime?username=DavidSanSan110&layout=compact&langs_count=8&theme=rose_pine&border_radius=10&card_width=500&card_height=200" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://wakatime.com/badge/user/018b5bee-c095-40e1-a69f-bb1d8754519a.svg" />
+</p>
+
+
+
 
 ## Contact Me ✉
 <a href="https://www.linkedin.com/in/davidsansan/?locale=en_US" rel="nofollow"><img alt="LinkedIn" src="[https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://github.com/linnovate/root-me/blob/master/src/images/icons/linkedin.ico)" style="max-width: 100%;"></a>

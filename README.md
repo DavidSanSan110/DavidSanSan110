@@ -2,7 +2,7 @@
 
 ## About Me 😊
 
-Hey there! I'm a passionate 23-year-old backend developer currently working at **Telefónica**. My focus is on **system design and architecture**, with a strong interest in building scalable, robust **microservices** and **distributed systems**. I enjoy tackling complex challenges that require innovative architectural solutions. In addition, I'm deeply fascinated by artificial intelligence, particularly in areas such as **intelligent agents** and **large language models** (LLMs). I'm always exploring new technologies and ideas to push the boundaries of what's possible in the **backend** world.
+Hey there! I'm a passionate 22-year-old backend developer currently working at **Telefónica**. My focus is on **system design and architecture**, with a strong interest in building scalable, robust **microservices** and **distributed systems**. I enjoy tackling complex challenges that require innovative architectural solutions. In addition, I'm deeply fascinated by artificial intelligence, particularly in areas such as **intelligent agents** and **large language models** (LLMs). I'm always exploring new technologies and ideas to push the boundaries of what's possible in the **backend** world.
 
 ## Stack 📚
 

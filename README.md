@@ -81,7 +81,7 @@ TuneYourLlama es una plataforma para el fine-tuning de LLMs con datos privados, 
       <img src="https://github-readme-streak-stats-seven-sooty.vercel.app?user=DavidSanSan110&theme=material-palenight&mode=weekly&border_radius=10&exclude_days=Sun%2CSat&card_width=500&card_height=200?" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats-seven-phi-58.vercel.app/api?username=DavidSanSan110&show_icons=true&hide=issues,contribs&show=prs_merged,reviews&theme=material-palenight&border_radius=10&card_width=500&card_height=200&cache_seconds=0&hide_title=true&number_format=long&rank_icon=percentile" />
+      <img src="https://github-readme-stats-seven-phi-58.vercel.app/api?username=DavidSanSan110&show_icons=true&hide=issues,contribs&show=prs_merged,reviews&theme=material-palenight&border_radius=10&card_width=500&card_height=200&cache_seconds=0&hide_title=true&number_format=long" />
     </td>
   </tr>
   <tr>

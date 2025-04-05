@@ -78,7 +78,6 @@ TuneYourLlama es una plataforma para el fine-tuning de LLMs con datos privados, 
   <img src="https://github-contributor-stats.vercel.app/api?username=DavidSanSan110&theme=material-palenight" />
 </p>
 
-<br />
 <table align="center">
   <tr>
     <td align="center">

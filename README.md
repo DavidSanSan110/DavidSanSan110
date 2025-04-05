@@ -58,18 +58,18 @@ Hey there! I'm a passionate 22-year-old backend developer currently working at *
 
 ### TuneYourLlama 🦙🦙  
 
-TuneYourLlama es una plataforma para el fine-tuning de LLMs con datos privados, combinando **ajuste de modelos** y **RAG (Retrieval-Augmented Generation)** para respuestas más precisas.  
+TuneYourLlama is a platform for fine-tuning LLMs with private data, combining **model tuning** and **RAG (Retrieval-Augmented Generation)** for more accurate responses.  
 
-#### 🚀 Características  
-- **Fine-tuning** de modelos de Hugging Face con datos propios (PDF, CSV).
-- **RAG** para mejorar respuestas mediante embeddings y bases de datos vectoriales.  
-- **Procesamiento en tiempo real** con Kafka y colas de eventos.  
-- **Arquitectura distribuida** con microservicios, PostgreSQL y seguridad integrada.  
-- **Interfaz interactiva** en React para monitorear y gestionar el entrenamiento.  
+#### 🚀 Features  
+- **Fine-tuning** Hugging Face models with your own data (PDF, CSV).  
+- **RAG** to enhance responses using embeddings and vector databases.  
+- **Real-time processing** with Kafka and event queues.  
+- **Distributed architecture** with microservices, PostgreSQL, and integrated security.  
+- **Interactive interface** in React to monitor and manage training.  
 
-#### 📷 Arquitectura
+#### 📷 Architecture
 
-![Arquitectura del Sistema](./TuneYourLlama.png)
+![System Architecture](./TuneYourLlama.png)  
 <br />
 
 ## 📊 GitHub Statistics 

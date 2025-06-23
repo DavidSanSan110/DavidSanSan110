@@ -50,7 +50,7 @@ Hey there! I'm a passionate 23-year-old backend developer currently working at *
 <p align="center">
   <h4>CD/CI</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gitlab,githubactions,docker,azure,aws,jenkins,openshift,redhat" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,githubactions,docker,azure,aws,jenkins,openshift,redhat,kubernetes" />
   </a>
 </p>
 

@@ -36,7 +36,7 @@ Hey there! I'm a passionate 23-year-old backend developer currently working at *
   <h4>Queues & Communication</h4>
   <div style="display: flex; justify-content: center; align-items: center; height: 100px;">
     <a href="https://socket.io">
-      <img src="https://static-00.iconduck.com/assets.00/socket-io-icon-2048x2046-mj0gnm4b.png" style="margin-right: 10px;" width="50" />
+      <img src="[https://static-00.iconduck.com/assets.00/socket-io-icon-2048x2046-mj0gnm4b.png](https://avatars.githubusercontent.com/u/10566080?s=200&v=4)" style="margin-right: 10px;" width="50" />
     </a>
     <a href="https://kafka.apache.org/">
       <img src="https://skillicons.dev/icons?i=kafka" style="margin-right: 10px;" width="50" />

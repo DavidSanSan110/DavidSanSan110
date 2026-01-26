@@ -78,9 +78,9 @@ TuneYourLlama is a platform for fine-tuning LLMs with private data, combining **
   <img src="https://wakatime.com/badge/user/018b5bee-c095-40e1-a69f-bb1d8754519a.svg" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=DavidSanSan110&theme=material-palenight" />
-</p>
+</p> -->
 
 <table align="center">
   <tr>

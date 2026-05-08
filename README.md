@@ -28,7 +28,6 @@ Hey there! I'm a passionate 23-year-old backend developer currently working at *
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=mongodb,cassandra,redis" style="margin-right: 10px;" />
     </a>
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-couchbase-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-16-pack-icons-285194.png?f=webp&w=40" />
   </div>
 </p>
 

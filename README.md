@@ -79,15 +79,15 @@ I'm also deeply into **LLM systems**: multi-provider model clients, RAG, fine-tu
   <img src="github-metrics.svg" alt="GitHub metrics" width="480" />
 </p>
 
-## 🎮 Gitwork card
+## 🎮 Player card
 
 <p align="center">
-  <a href="https://gitwork.dev/davidsansan110">
-    <img src="https://gitwork.dev/davidsansan110/opengraph-image" alt="Gitwork player card for David Sánchez Sánchez" width="600" />
+  <a href="https://github.com/DavidSanSan110/fullpitch">
+    <img src="fullpitch-card.svg" alt="fullpitch player card for David Sánchez Sánchez" width="600" />
   </a>
 </p>
 
-<p align="center"><i>Scored from public GitHub activity by <a href="https://gitwork.dev">Gitwork</a>. Private work isn't included.</i></p>
+<p align="center"><i>Public + private activity, scored with <a href="https://github.com/gitwork-oss/gitrank">gitrank</a> (the <a href="https://gitwork.dev/davidsansan110">Gitwork</a> formula) by <a href="https://github.com/DavidSanSan110/fullpitch">fullpitch</a>. Refreshed daily.</i></p>
 
 <p align="center">
   <img src="https://wakatime.com/badge/user/018b5bee-c095-40e1-a69f-bb1d8754519a.svg" alt="WakaTime" />

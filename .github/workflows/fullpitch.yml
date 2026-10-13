@@ -1,0 +1,22 @@
+name: fullpitch card
+
+on:
+  schedule:
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  card:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: DavidSanSan110/fullpitch@v1
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          theme: navy
+          output: fullpitch-card.svg
+          commit_message: "Update fullpitch-card.svg - [Skip GitHub Action]"

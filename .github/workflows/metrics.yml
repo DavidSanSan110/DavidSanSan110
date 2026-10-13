@@ -23,4 +23,3 @@ jobs:
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_followup: yes
-          plugin_habits: yes

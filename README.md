@@ -76,8 +76,18 @@ I'm also deeply into **LLM systems**: multi-provider model clients, RAG, fine-tu
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="github-metrics.svg" alt="GitHub metrics" width="100%" />
+  <img src="github-metrics.svg" alt="GitHub metrics" width="480" />
 </p>
+
+## 🎮 Gitwork card
+
+<p align="center">
+  <a href="https://gitwork.dev/davidsansan110">
+    <img src="https://gitwork.dev/davidsansan110/opengraph-image" alt="Gitwork player card for David Sánchez Sánchez" width="600" />
+  </a>
+</p>
+
+<p align="center"><i>Scored from public GitHub activity by <a href="https://gitwork.dev">Gitwork</a>. Private work isn't included.</i></p>
 
 <p align="center">
   <img src="https://wakatime.com/badge/user/018b5bee-c095-40e1-a69f-bb1d8754519a.svg" alt="WakaTime" />
